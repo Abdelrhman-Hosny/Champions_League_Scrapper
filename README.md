@@ -4,8 +4,6 @@ This is a web scraping script in which you can modify the year manually and then
 
 Here are some examples for the 2017 , 2018 and 2019 Champions League.
 
-
-
 ------
 
 ![](./Screenshots/CL2017.png)
